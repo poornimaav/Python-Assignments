@@ -8,6 +8,4 @@ new_list=[]
 for i in samp_list:
     if i not in new_list:
         new_list+=[i]
-    else:
-        pass
 print(new_list)
